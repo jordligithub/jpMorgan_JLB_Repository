@@ -1,0 +1,13 @@
+[2015/12/04 09:05:46] [1] [stockscalculate.StocksCalculate/main:43] 
+--------------------------------------------------------------------------------------
+Starting Stocks Calcutate
+mode:standar
+popertiesFile:C:\Users\JordiL\Desktop\jpMorgan\jpMorgan_Jordi_Lopez\input&output_Files\stockProperties.properties
+inputFile:C:\Users\JordiL\Desktop\jpMorgan\jpMorgan_Jordi_Lopez\input&output_Files\input.csv
+outputFile:C:\Users\JordiL\Desktop\jpMorgan\jpMorgan_Jordi_Lopez\input&output_Files\output.csv
+logFile:C:\Users\JordiL\Desktop\jpMorgan\jpMorgan_Jordi_Lopez\input&output_Files\log.log
+[2015/12/04 09:05:47] [1] [stockscalculate.Stock/calculatePeRatio:143] Error:dividing by zero,symbol:TEA
+[2015/12/04 09:05:47] [1] [stockscalculate.StocksCalculate/main:61] 
+Finishing Stocks Calcutate
+--------------------------------------------------------------------------------------
+

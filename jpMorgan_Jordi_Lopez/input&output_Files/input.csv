@@ -1,0 +1,6 @@
+stockSymbol;type;tickerPrice;quantity;lastDividend;fixedDividend;parValue;tickerMeanPrice;operation
+TEA;Common;1;23;0;;100;1.25;buy
+POP;Common;6;25;8;;100;6.45;sell
+ALE;Common;25;12;23;;60;26;buy
+GIN;Preferred;4;56;8;2%;100;4.1;buy
+JOE;Common;11;23;13;;250;11.23;sell
